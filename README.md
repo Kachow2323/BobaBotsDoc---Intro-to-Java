@@ -11,6 +11,11 @@ includes:
       Basic Calculator
       EightBall
 
-If you can get through 
+If you can get through everything above, you may continue onto Robot Code. WPILIB is our savior! 
 
-  "Kitbot" 6 Wheel Tank Drive with 4 Talon FX's. 2 each side (coupled). Code includes both Tank & Arcade
+  "Kitbot" 6 Wheel Tank Drive with 4 Talon FX's. 2 each side (coupled). Code includes both Tank & Arcade Drive Styles.
+
+  *** This code is located in another repo, (testing branch)
+
+  Simple Swerve Drive - WIP
+  Swerve adopted 2023 btw :D
