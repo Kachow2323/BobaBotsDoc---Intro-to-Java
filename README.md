@@ -4,12 +4,12 @@ This Repository is a catalog of code for new members, its more of a book of solu
 
 includes:
   Starter Code:
-      Even or Odd Drill
-      Some Scanner Program
-      FizzBuzz Game 
-      FizzBuzz Optimized
-      Basic Calculator
-      EightBall
+    Even or Odd Drill
+    Some Scanner Program
+    FizzBuzz Game 
+    FizzBuzz Optimized
+    Basic Calculator
+  	EightBall
 
 If you can get through everything above, you may continue onto Robot Code. WPILIB is our savior! 
 
