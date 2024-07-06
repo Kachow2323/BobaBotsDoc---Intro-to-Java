@@ -11,6 +11,9 @@ includes:
     Basic Calculator,
   	EightBall
 
+## DOCUMENTATION
+  -DOC LINK: https://docs.google.com/document/d/11ntXVpO66wErN6YhEDE6xzHouGmSpJBbwigHyIz4zkE/edit?usp=sharing
+
 If you can get through everything above, you may continue onto Robot Code. WPILIB is our savior! 
 
   "Kitbot" 6 Wheel Tank Drive with 4 Talon FX's. 2 each side (coupled). Code includes both Tank & Arcade Drive Styles.
