@@ -1,5 +1,5 @@
 # Soph2023-MRT253MiscWork-Practice
-Practices for new Members from the 2023 season (includes lectures and teachers + broken sql script)
+Practices for new Members from the 2023-2025 season (includes lectures and teachers + broken sql script)
 This Repository is a catalog of code for new members, its more of a book of solutions and its kinda of a test before you can move onto to ROBOT CODE!!!
 
 includes:
